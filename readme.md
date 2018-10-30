@@ -14,9 +14,11 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 
 ## Install Project Store Company
 
-
-1. Install Composer at server or pc
-2. From terminal move to "store" folder (Project laravel)
-3. Run "composer install" command
-4. It needs a mysql database named "store", a user "root", a password is not necessary and host "127.0.0.1"
-4. Run "php artisan migrate --seed" command
+1. git clone https://github.com/elkinff/storeCompanyFinder.git
+2. From terminal move to "storeCompanyFinder" folder (Project laravel)
+3. Install Composer at server or pc
+4. Run "composer install" command
+5. It needs a mysql database named "store", a user "root", a password is not necessary and host "127.0.0.1"
+6. Run "php artisan migrate --seed" command
+7. Run "php artisan ser" command
+8. Type the address http://127.0.0.1:8000 at navigator 
