@@ -21,4 +21,5 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 5. It needs a mysql database named "store", a user "root", a password is not necessary and host "127.0.0.1"
 6. Run "php artisan migrate --seed" command
 7. Run "php artisan ser" command
-8. Type the address http://127.0.0.1:8000 at navigator 
+8. Type the address http://127.0.0.1:8000 at navigator
+9. It is ready!
